@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CA326 Project Blog Site</title>
+    <link>http://dowlim35.github.io/</link>
+    <description>Recent content on CA326 Project Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 12:29:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://dowlim35.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Blogs</title>
+      <link>http://dowlim35.github.io/post/secondpost/</link>
+      <pubDate>Thu, 01 Nov 2018 12:29:02 +0000</pubDate>
+      
+      <guid>http://dowlim35.github.io/post/secondpost/</guid>
+      <description>What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I’m the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>http://dowlim35.github.io/post/hello/</link>
+      <pubDate>Thu, 01 Nov 2018 12:24:38 +0000</pubDate>
+      
+      <guid>http://dowlim35.github.io/post/hello/</guid>
+      <description>Hello!</description>
+    </item>
+    
+  </channel>
+</rss>
